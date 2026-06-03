@@ -184,7 +184,7 @@ print(me.motto())
 </details>
 
 <details>
-  <summary>🎓 <strong>TKM College of Engineering</strong> — Secretary & Technical Head, CSI SB | 2023 – Present | Kollam, Kerala</summary>
+  <summary>🎓 <strong>TKM College of Engineering</strong> — Secretary & Technical Head, CSI SB | 2023 – 2025 | Kollam, Kerala</summary>
   <br/>
 
   > **Tech Stack:**
