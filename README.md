@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+There%2C+I'm+Manudev+B+S+%F0%9F%91%8B;Full+Stack+Developer+%7C+Python+%2B+MERN;AI+%26+GNN+Enthusiast+%F0%9F%A7%A0;CSI+Secretary+%7C+Tech+Leader+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+There%2C+I%27m+Manudev+B+S+%F0%9F%91%8B;Full+Stack+Developer+%7C+Python+%2B+MERN;AI+%26+GNN+Enthusiast+%F0%9F%A7%A0;CSI+Secretary+%7C+Tech+Leader+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 About Me
 
-<!-- <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/> -->
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 class ManudevBS:
@@ -27,7 +27,7 @@ class ManudevBS:
         self.name           = "Manudev B S"
         self.location       = "Thiruvananthapuram, Kerala, India"
         self.degree         = "B.Tech CSE @ TKM College of Engineering (2022–2026)"
-        self.cgpa           = 7.83
+        self.cgpa           = 7.85
 
         self.stack = [
             "Python", "Java", "JavaScript",
@@ -102,12 +102,8 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/1518manu">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=1518manu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/1518manu">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1518manu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=1518manu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1518manu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&hide=jupyter%20notebook" />
 </div>
 
 ---
@@ -115,7 +111,7 @@ print(me.motto())
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=1518manu&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=1518manu&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10&date_format=j%20M%5B%20Y%5D" />
 </div>
 
 ---
@@ -123,15 +119,47 @@ print(me.motto())
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1518manu&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1518manu&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&area_color=70a5fd" />
 </div>
 
 ---
 
-## 🏆 Trophy Wall
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=1518manu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+
+> **Badges earned on GitHub** — visible on your [profile achievements tab](https://github.com/1518manu?tab=achievements)
+
+<table>
+<tr>
+<td align="center" width="130">
+  <img width="64" src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" /><br/>
+  <sub><b>Pull Shark</b></sub><br/>
+  <sub>Merged PRs</sub>
+</td>
+<td align="center" width="130">
+  <img width="64" src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" /><br/>
+  <sub><b>YOLO</b></sub><br/>
+  <sub>Merged without review</sub>
+</td>
+<td align="center" width="130">
+  <img width="64" src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" /><br/>
+  <sub><b>Pair Extraordinaire</b></sub><br/>
+  <sub>Coauthored commits</sub>
+</td>
+<td align="center" width="130">
+  <img width="64" src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" /><br/>
+  <sub><b>Quickdraw</b></sub><br/>
+  <sub><i>In progress...</i></sub>
+</td>
+<td align="center" width="130">
+  <img width="64" src="https://github.githubassets.com/assets/starstruck-default-b798ff8a7e1a.png" /><br/>
+  <sub><b>Starstruck</b></sub><br/>
+  <sub><i>In progress...</i></sub>
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
@@ -181,7 +209,7 @@ print(me.motto())
 |---|---|---|
 | [**🧠 Schizophrenia Detection AI**](https://github.com/1518manu) | Python · GNN · Neuroimaging · PyTorch | Enhanced an AI-based neuroimaging pipeline using Graph Neural Networks for schizophrenia classification; improved model accuracy on brain connectivity data |
 | [**🤝 Community Support Web App**](https://github.com/1518manu) | MongoDB · Express · React · Node.js (MERN) | Full-stack platform linking volunteers, NGOs, and individuals for emergency aid; real-time coordination with role-based access control |
-| [**📋 Activity Points Management System**](https://github.com/1518manu) | React · Firebase · Firestore | Role-based fullstack app for managing student activity records; structured data flow for validation & approval; responsive UI for consistent UX across devices |
+| [**📋 Activity Points Management System**](https://github.com/1518manu/ActivityPoints) | React · Firebase · Firestore | Role-based fullstack app for managing student activity records; structured data flow for validation & approval; responsive UI for consistent UX across devices |
 
 </div>
 
