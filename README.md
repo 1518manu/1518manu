@@ -210,7 +210,7 @@ print(me.motto())
 
 | 🎓 Degree | 🏛️ Institution | 📅 Year | 📊 Score |
 |---|---|---|---|
-| B.Tech — Computer Science & Engineering | TKM College of Engineering, Kollam | 2022 – 2026 | **7.83 CGPA** |
+| B.Tech — Computer Science & Engineering | TKM College of Engineering, Kollam | 2022 – 2026 | **7.85 CGPA** |
 | Higher Secondary (CBSE) | Jawahar Navodaya Vidyalaya, Trivandrum | 2021 – 2022 | **87.4%** |
 | Secondary (CBSE) | Jawahar Navodaya Vidyalaya, Trivandrum | 2019 – 2020 | **82.6%** |
 
@@ -237,13 +237,13 @@ print(me.motto())
   <a href="mailto:manudev1518@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/manudev-b-s">
+  <a href="https://www.linkedin.com/in/manu21/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/manudev1518">
+  <a href="https://github.com/1518manu">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:manudev1518@gmail.com">
+  <a href="https://portfolio-1518manus-projects.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
