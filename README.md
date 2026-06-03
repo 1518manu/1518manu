@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manudev1518&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/manudev1518?label=Followers&style=flat-square&color=70a5fd" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=1518manu&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/1518manu?label=Followers&style=flat-square&color=70a5fd" alt="Followers" />
   <img src="https://img.shields.io/badge/Location-Thiruvananthapuram%2C%20Kerala-38bdae?style=flat-square&logo=google-maps&logoColor=white" />
   <img src="https://img.shields.io/badge/B.Tech-CSE%20%40%20TKMCE-bf91f3?style=flat-square&logo=graduation-cap&logoColor=white" />
 </p>
