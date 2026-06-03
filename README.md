@@ -102,10 +102,10 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/manudev1518">
+  <a href="https://github.com/1518manu">
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=manudev1518&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
   </a>
-  <a href="https://github.com/manudev1518">
+  <a href="https://github.com/1518manu">
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manudev1518&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
   </a>
 </div>
@@ -115,7 +115,7 @@ print(me.motto())
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=manudev1518&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=1518manu&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -123,7 +123,7 @@ print(me.motto())
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manudev1518&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1518manu&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -131,7 +131,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manudev1518&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=1518manu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
 </div>
 
 ---
@@ -179,9 +179,9 @@ print(me.motto())
 
 | 🗂️ Project | 🛠️ Stack | ✨ Highlights |
 |---|---|---|
-| [**🧠 Schizophrenia Detection AI**](https://github.com/manudev1518) | Python · GNN · Neuroimaging · PyTorch | Enhanced an AI-based neuroimaging pipeline using Graph Neural Networks for schizophrenia classification; improved model accuracy on brain connectivity data |
-| [**🤝 Community Support Web App**](https://github.com/manudev1518) | MongoDB · Express · React · Node.js (MERN) | Full-stack platform linking volunteers, NGOs, and individuals for emergency aid; real-time coordination with role-based access control |
-| [**📋 Activity Points Management System**](https://github.com/manudev1518) | React · Firebase · Firestore | Role-based fullstack app for managing student activity records; structured data flow for validation & approval; responsive UI for consistent UX across devices |
+| [**🧠 Schizophrenia Detection AI**](https://github.com/1518manu) | Python · GNN · Neuroimaging · PyTorch | Enhanced an AI-based neuroimaging pipeline using Graph Neural Networks for schizophrenia classification; improved model accuracy on brain connectivity data |
+| [**🤝 Community Support Web App**](https://github.com/1518manu) | MongoDB · Express · React · Node.js (MERN) | Full-stack platform linking volunteers, NGOs, and individuals for emergency aid; real-time coordination with role-based access control |
+| [**📋 Activity Points Management System**](https://github.com/1518manu) | React · Firebase · Firestore | Role-based fullstack app for managing student activity records; structured data flow for validation & approval; responsive UI for consistent UX across devices |
 
 </div>
 
