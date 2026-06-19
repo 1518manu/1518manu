@@ -31,14 +31,14 @@ class ManudevBS:
 
         self.stack = [
             "Python", "Java", "JavaScript",
-            "React.js", "Node.js", "MongoDB",
-            "Firebase", "SQL", "REST APIs"
+            "React.js", "Node.js", "PostgreSQL",
+            "Supabase", "SQL", "REST APIs"
         ]
 
         self.currently_learning = [
             "Graph Neural Networks (GNN)",
             "System Design",
-            "Cloud Deployment (Firebase & beyond)",
+            "Cloud Deployment (Supabase)",
             "Advanced Data Structures & Algorithms"
         ]
 
@@ -80,12 +80,12 @@ print(me.motto())
 **Backend & Cloud**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=green)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
 **Databases**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=blue)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Tools & DevOps**
